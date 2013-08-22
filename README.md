@@ -5,8 +5,7 @@ Additional OS X specific grains for saltstack.
 * model
 * serial
 
-Writing grains is briefly covered in SaltStack's docs:
-http://docs.saltstack.com/topics/targeting/grains.html#writing-grains
+Writing grains is briefly covered in [SaltStack's docs](http://docs.saltstack.com/topics/targeting/grains.html#writing-grains).
 
 model
 -----
