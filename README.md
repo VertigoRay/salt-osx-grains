@@ -2,8 +2,8 @@ salt-osx-grains
 ===============
 
 Additional OS X specific grains for saltstack.
-*model
-*serial
+* model
+* serial
 
 Writing grains is briefly covered in SaltStack's docs:
 http://docs.saltstack.com/topics/targeting/grains.html#writing-grains
